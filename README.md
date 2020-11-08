@@ -11,8 +11,8 @@ Code has been tested and developed for data of the following dimensions:
 Larger datasets may require more RAM for processing. 
 
 ## Description:
-1) '**functions.r**': contains all necessary functions to run simulations.
-2) '**demo_case1.r**': demonstrates the proposed method for Case 1 in the simulation studies.
-3) '**demo_case2.r**': demonstrates the proposed method for Case 1 in the simulation studies.
-4) '**demo_case3.r**': demonstrates the proposed method for Case 1 in the simulation studies.
-5) '**seql executables (folder)**': contains necessary C++ implementation of the sequence learner  (Ifrim and Wiuf, 2011).
+1) **functions.r**: contains all necessary functions to run simulations.
+2) **demo_case1.r**: demonstrates the proposed method for Case 1 in the simulation studies.
+3) **demo_case2.r**: demonstrates the proposed method for Case 1 in the simulation studies.
+4) **demo_case3.r**: demonstrates the proposed method for Case 1 in the simulation studies.
+5) **seql executables (folder)**: contains necessary C++ implementation of the sequence learner  (Ifrim and Wiuf, 2011).
